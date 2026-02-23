@@ -1,0 +1,1 @@
+print("Welcome to the adventure, I hope you are ready to have some fun!!")
