@@ -2,7 +2,7 @@ Python Quests – Group 18
 
 Welcome to the Python Quests Adventure Repository!
 
-This project contains structured Python exercises designed to build programming skills progressively across six levels — from basic printing and variables to logic, loops, functions, and complete mini-applications.
+This project contains structured Python exercises designed to build programming skills progressively across six levels from basic printing and variables to logic, loops, functions, and complete mini-applications.
 
 Each group member was required to:
 
