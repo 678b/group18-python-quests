@@ -161,7 +161,7 @@ Brian HIRWA NTWALI git hub username (678b)
 
 Member 2: Ivan INEZA HAKIZIMANA git hub username (Ivan70807)
 
-Member 3: Sosthene INEZA NDAHIRWA
+Member 3: Sosthene INEZA NDAHIRWA git hub username (inezaNdahirwaSosthene)
 
 Member 4: Clovis INDOHA
 
