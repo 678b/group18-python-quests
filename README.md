@@ -157,13 +157,13 @@ Contributors
 
 Group Members:
 
-Brian HIRWA NTWALI git hub username (678b)
+Member 1: Brian HIRWA NTWALI git hub username (678b)
 
 Member 2: Ivan INEZA HAKIZIMANA git hub username (Ivan70807)
 
 Member 3: Sosthene INEZA NDAHIRWA git hub username (inezaNdahirwaSosthene)
 
-Member 4: Clovis INDOHA
+Member 4: Clovis INDOHA git hub username (cindoha-hash)
 
 Member 5: Kevin IRADUKUNDA git hub username (kiradukund)
 
